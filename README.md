@@ -135,8 +135,6 @@ public static void main(String[] args) {
 ```
 ## Ejecutando las pruebas
 
-### Dividir en pruebas de principio a fin
-
 Este codigo realiza una divison, hace que el usuario escriba dos numeros y el programa realice la division
 
 ```
@@ -173,7 +171,77 @@ public class HolaMundo {
 }
 
 ```
+En este codigo el usuario digita tres numeros y el programa los suma y los divide
+```
+package Calculo;
+import java.util. Scanner;
+public class Promedio
+{
+public static void main(String[] args) {
+Scanner ss=new Scanner(System.in);
+System.out.print ("Ingrese Calificaciones");|
+float n1 = sc. nextFloat ();
+float n2 = sc. nextFloat ();
+float n3 = sc.nextFloat();
+float prom = (n1 + n2 + n3)/3;
+System. out. print (prom);
+}
+}
+```
+En este codigo el usuario digita el valor que quire que el programa convierta de pesos a dolar
+```
+import java. util. Scanner;
+public class Conversor (
+public static void
+main (String [] args)
+Scanner S-new Scanner (System. 1n);
+System. out.print ("Ingrese Valor Pesos Colombianos");
+double valor = sc.nextDouble ();
+double dolar = valor/19.5;
+System.out print ("Valor Dolares:
+System. out.print (dolar);
+}
+}
+```
+En este codigo el usuario digita los partidos ganados, perdidos y empatados y el programa calcula cuantos puntos tendria
+```
+import java.util.Scanner;
 
+public class Partidos {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Ingrese el número de partidos ganados: ");
+        int ganados = sc.nextInt();
+        System.out.print("Ingrese el número de partidos empatados: ");
+        int empatados = sc.nextInt();
+        System.out.print("Ingrese el número de partidos perdidos: ");
+        int perdidos = sc.nextInt();
+        int total = ganados + empatados + perdidos;
+        System.out.println("El equipo ha jugado un total de " + total + " partidos.");
+        System.out.println("Ha ganado " + ganados + " partidos, empatado " + empatados + " partidos y perdido " + perdidos + " partidos.");
+    }
+}
+
+```
+En este codigo el usuario digita los numeros y el programa reslza la suma y resta
+```
+import java.util.Scanner;
+
+public class SumaResta {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Ingrese el primer número: ");
+        int num1 = sc.nextInt();
+        System.out.print("Ingrese el segundo número: ");
+        int num2 = sc.nextInt();
+        int suma = num1 + num2;
+        int resta = num1 - num2;
+        System.out.println("La suma de los números es: " + suma);
+        System.out.println("La resta de los números es: " + resta);
+    }
+}
+
+```
 ## Menu
 
 Se utiliza para proporcionar una interfaz gráfica de usuario, para que los usuarios puedan interactuar con el programa.
