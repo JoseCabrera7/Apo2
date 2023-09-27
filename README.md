@@ -1,6 +1,4 @@
 
-![Logo Eclipse](https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png)
-
 # Algoritmos y Programacion 2
 
 Los algoritmos son secuencias de pasos lógicos que permiten solucionar un problema, y pueden ser expresados de muchas maneras, incluyendo lenguaje natural, pseudocódigo, diagramas de flujo y lenguajes de programación. La programación es el proceso de escribir código para crear programas informáticos, y los algoritmos son el paso previo a la programación. 
