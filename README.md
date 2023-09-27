@@ -143,15 +143,15 @@ import java.util.Scanner;
 public class Division {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Ingrese el primer número: ");
-        double num1 = scanner.nextDouble();
-        System.out.print("Ingrese el segundo número: ");
-        double num2 = scanner.nextDouble();
+		 System.out.print("Ingrese el primer número: ");
+      		  double num1 = scanner.nextDouble();
+		System.out.print("Ingrese el segundo número: ");
+		double num2 = scanner.nextDouble();
         if (num2 == 0) {
-            System.out.println("No se puede dividir por cero.");
+           	 System.out.println("No se puede dividir por cero.");
         } else {
-            double divide = num1 / num2;
-            System.out.println(num1 + " / " + num2 + " = " + divide);
+		double divide = num1 / num2;
+           	 System.out.println(num1 + " / " + num2 + " = " + divide);
         }
         scanner.close();
     }
@@ -177,14 +177,14 @@ package Calculo;
 import java.util. Scanner;
 public class Promedio
 {
-public static void main(String[] args) {
-Scanner ss=new Scanner(System.in);
-System.out.print ("Ingrese Calificaciones");|
-float n1 = sc. nextFloat ();
-float n2 = sc. nextFloat ();
-float n3 = sc.nextFloat();
-float prom = (n1 + n2 + n3)/3;
-System. out. print (prom);
+	public static void main(String[] args) {
+	Scanner ss=new Scanner(System.in);
+		System.out.print ("Ingrese Calificaciones");|
+		float n1 = sc. nextFloat ();
+		float n2 = sc. nextFloat ();
+		float n3 = sc.nextFloat();
+		float prom = (n1 + n2 + n3)/3;
+	System. out. print (prom);
 }
 }
 ```
@@ -192,14 +192,14 @@ En este codigo el usuario digita el valor que quire que el programa convierta de
 ```
 import java. util. Scanner;
 public class Conversor (
-public static void
-main (String [] args)
-Scanner S-new Scanner (System. 1n);
-System. out.print ("Ingrese Valor Pesos Colombianos");
-double valor = sc.nextDouble ();
-double dolar = valor/19.5;
-System.out print ("Valor Dolares:
-System. out.print (dolar);
+	public static void
+	main (String [] args)
+		Scanner S-new Scanner (System. 1n);
+			System. out.print ("Ingrese Valor Pesos Colombianos");
+			double valor = sc.nextDouble ();
+				double dolar = valor/19.5;
+			System.out print ("Valor Dolares:
+			System. out.print (dolar);
 }
 }
 ```
@@ -210,15 +210,15 @@ import java.util.Scanner;
 public class Partidos {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Ingrese el número de partidos ganados: ");
+        	System.out.print("Ingrese el número de partidos ganados: ");
         int ganados = sc.nextInt();
-        System.out.print("Ingrese el número de partidos empatados: ");
+       		 System.out.print("Ingrese el número de partidos empatados: ");
         int empatados = sc.nextInt();
-        System.out.print("Ingrese el número de partidos perdidos: ");
+       		 System.out.print("Ingrese el número de partidos perdidos: ");
         int perdidos = sc.nextInt();
         int total = ganados + empatados + perdidos;
-        System.out.println("El equipo ha jugado un total de " + total + " partidos.");
-        System.out.println("Ha ganado " + ganados + " partidos, empatado " + empatados + " partidos y perdido " + perdidos + " partidos.");
+        	System.out.println("El equipo ha jugado un total de " + total + " partidos.");
+        	System.out.println("Ha ganado " + ganados + " partidos, empatado " + empatados + " partidos y perdido " + perdidos + " partidos.");
     }
 }
 
@@ -230,14 +230,14 @@ import java.util.Scanner;
 public class SumaResta {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Ingrese el primer número: ");
+        	System.out.print("Ingrese el primer número: ");
         int num1 = sc.nextInt();
-        System.out.print("Ingrese el segundo número: ");
+       		 System.out.print("Ingrese el segundo número: ");
         int num2 = sc.nextInt();
         int suma = num1 + num2;
         int resta = num1 - num2;
-        System.out.println("La suma de los números es: " + suma);
-        System.out.println("La resta de los números es: " + resta);
+        	System.out.println("La suma de los números es: " + suma);
+		System.out.println("La resta de los números es: " + resta);
     }
 }
 
@@ -311,12 +311,11 @@ ROMA : se utiliza para generar canales RSS
 
 ## Versionado
 
-Usamos Git para el control de versiones. Para conocer las versiones disponibles, consulte las etiquetas en este repositorio .
+Eclipse (Version 2022-12)
 
 ## Autores
 
 * **Jose Cabrera - Juan Jaramillo - Samuel Betancourt** 
-
 
 ## Licencia
 
