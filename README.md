@@ -1,5 +1,5 @@
 
-![Logo Eclipse](https://previews.123rf.com/images/get4net/get4net2112/get4net211229810/179642607-eclipse-un-entorno-de-desarrollo-integrado-utilizado-en-la-programaci%C3%B3n-inform%C3%A1tica.jpg)
+![Logo Eclipse](https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png)
 
 # Titulo del Proyecto
 
