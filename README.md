@@ -135,8 +135,6 @@ public static void main(String[] args) {
 ```
 ## Ejecutando las pruebas
 
-Explicar cómo ejecutar las pruebas automatizadas para este sistema.
-
 ### Dividir en pruebas de principio a fin
 
 Este codigo realiza una divison, hace que el usuario escriba dos numeros y el programa realice la division
