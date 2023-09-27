@@ -5,7 +5,7 @@ Los algoritmos son secuencias de pasos lógicos que permiten solucionar un probl
 
 ### Eclipse
 
-![Logo Eclipse](https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png)
+![Logo Eclipse](https://w1.pngwing.com/pngs/560/516/png-transparent-eclipse-purple-javaserver-faces-computer-software-dbeaver-x-pixmap-integrated-development-environment-android-studio-microsoft-visual-studio.png)
 
 ```
 Give examples
