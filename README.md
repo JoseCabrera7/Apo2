@@ -64,7 +64,7 @@ public class CONTENEDOR {
 }
 ```
 
-Este menu se repite infinitamente hasta darle el numero 5 que sirve para salir del menu.
+Este menu se repite infinitamente hasta colocar el numero 5 que sirve para salir del menu.
 
 ```
 package apoII;
@@ -139,7 +139,7 @@ Explicar cómo ejecutar las pruebas automatizadas para este sistema.
 
 ### Dividir en pruebas de principio a fin
 
-Este codigo realiza divison, hace que el usuario escriba dos numeros y el programa realice la division
+Este codigo realiza una divison, hace que el usuario escriba dos numeros y el programa realice la division
 
 ```
 import java.util.Scanner;
@@ -165,7 +165,7 @@ public class Division {
 
 ### Codificación.
 
-Con esto podemos empeazr a codificar un odigo
+Con este codigo podemos emepzar a codificar un codigo
 
 ```
 public class HolaMundo {
