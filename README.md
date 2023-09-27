@@ -1,17 +1,13 @@
 
 ![Logo Eclipse](https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png)
 
-# Titulo del Proyecto
+# Algoritmos y Programacion 2
 
-Un párrafo de la descripción del proyecto va aquí.
+Los algoritmos son secuencias de pasos lógicos que permiten solucionar un problema, y pueden ser expresados de muchas maneras, incluyendo lenguaje natural, pseudocódigo, diagramas de flujo y lenguajes de programación. La programación es el proceso de escribir código para crear programas informáticos, y los algoritmos son el paso previo a la programación. 
 
-## Empezando
+### Eclipse
 
-Estas instrucciones le permitirán obtener una copia del proyecto en funcionamiento en su máquina local para fines de desarrollo y prueba. Consulte implementación para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
-
-### Requisitos previos
-
-Qué cosas necesitas para instalar el software y cómo instalarlas
+![Logo Eclipse](https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png)
 
 ```
 Give examples
