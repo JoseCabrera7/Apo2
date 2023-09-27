@@ -301,7 +301,8 @@ public class MENU2 {
 		}
 	}
 }
-...
+```
+
 ## Construido con
 
 Dropwizard : el marco web utilizado
