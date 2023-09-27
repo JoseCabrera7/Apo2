@@ -8,7 +8,35 @@ Los algoritmos son secuencias de pasos lógicos que permiten solucionar un probl
 ![Logo Eclipse](https://i.ytimg.com/vi/tqzwoJ_eZAk/hqdefault.jpg)
 
 ```
-Give examples
+package apoII;
+import javax.swing.JOptionPane;
+public class MENUTALLER {
+	
+	public static void main(String[] args) {
+	    int numero;
+	    while (true) {
+	        numero = Integer.parseInt(JOptionPane.showInputDialog(null, "Ingrese un número entero:", "FACTORIAL", 3));
+	        if (numero < 0) {
+	            JOptionPane.showMessageDialog(null, "ERROR el numero de ser positivo", "ERROR", 0);
+	            continue;
+	        }
+	        else if (numero == 0) {
+	            break;
+	        }
+	        
+	        int factorial = calcularFactorial(numero);
+	        JOptionPane.showMessageDialog(null, "El factorial de " + numero + "es: " + factorial, "FACTORIAL", 1);
+	        JOptionPane.showMessageDialog(null, "¿Desea calcular el factorial de otro número? ", "FACTORIAL", 2);
+	    }
+	}
+		public static int calcularFactorial(int n) {
+			int factorial = 1;
+			for (int i = 1; i <= n; i++) {
+				factorial *= i;
+	    }
+			return factorial;
+	}
+}
 ```
 
 ### Instalación
