@@ -8,11 +8,11 @@ public class ejer_par_impar {
 			System.out.print("0");
 		}
 		else if (n%2==0) {
-			System.out.print("par");
+			System.out.print(" Numero par");
 		}
 		
 		else if (n/2!=0){
-			System.out.print("impar");
+			System.out.print("Numero impar");
 		}
 	}
 	}
