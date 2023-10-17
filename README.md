@@ -163,7 +163,7 @@ public class Division {
 
 ### Codificación.
 
-Con este codigo podemos emepzar a codificar un codigo
+Con este codigo podemos empezar a codificar un codigo
 
 ```
 public class HolaMundo {
@@ -190,7 +190,7 @@ public class Promedio
 }
 }
 ```
-En este codigo el usuario digita el valor que quire que el programa convierta de pesos a dolar
+En este codigo el usuario digita el valor que quiere que el programa convierta de pesos a dolar
 ```
 import java. util. Scanner;
 public class Conversor (
@@ -225,7 +225,7 @@ public class Partidos {
 }
 
 ```
-En este codigo el usuario digita los numeros y el programa reslza la suma y resta
+En este codigo el usuario digita los numeros y el programa realiza la suma y resta
 ```
 import java.util.Scanner;
 
