@@ -51,11 +51,11 @@ public static void main(String[] args) {
 					JOptionPane.showMessageDialog(null, "DIVISION: "+q, "MENU", 1);
 						break;
 			case 5:
-					JOptionPane.showMessageDialog(null, "SALISTE DEL MENU ", "MENU", 2);
+					JOptionPane.showMessageDialog(null, "SALISTE DEL MENU ;) ", "MENU", 2);
 						break;
 
 			default:
-					JOptionPane.showMessageDialog(null, "NO VALIDO", "ERROR", 0);
+					JOptionPane.showMessageDialog(null, "NO ES VALIDO", "ERROR", 0);
 						break;
 			}
 		}
