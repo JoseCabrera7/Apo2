@@ -1,0 +1,8 @@
+public static boolean buscarElemento(int[] arreglo, int elemento) {
+    for (int i : arreglo) {
+        if (i == elemento) {
+            return true;
+        }
+    }
+    return false;
+}
