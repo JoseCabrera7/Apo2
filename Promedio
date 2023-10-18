@@ -1,0 +1,7 @@
+public static double calcularPromedio(List<Integer> numeros) {
+    int suma = 0;
+    for (int numero : numeros) {
+        suma += numero;
+    }
+    return (double) suma / numeros.size();
+}
