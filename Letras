@@ -1,0 +1,7 @@
+public static String convertirAMayusculas(String texto) {
+    return texto.toUpperCase();
+}
+
+public static String convertirAMinusculas(String texto) {
+    return texto.toLowerCase();
+}
