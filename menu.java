@@ -16,7 +16,7 @@ public class menu {
     public static void main(String[] args) {
         int opcion = 0;
         while (opcion!=5) {
-            int opcion1 = Integer.parseInt(JOptionPane.showInputDialog(null, "Escoge una opcion\n 1: SUMA\n 2: RESTA\n 3: MULTIPLICACION\n 4: DIVISION\n 5: SALIR DEL MENU",  "BIENVENIDO AL MENU", 3));
+            int opcion1 = Integer.parseInt(JOptionPane.showInputDialog(null, "Escoge una opcion\n 1: SUMA\n 2: RESTA\n 3: MULTIPLICACION\n 5: SALIR DEL MENU",  "BIENVENIDO AL MENU", 3));
             switch(opcion1) {
                 case 1:
                     int x = 15;
