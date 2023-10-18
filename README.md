@@ -43,7 +43,7 @@ public class MENUTALLER {
 
 ### Instalación
 
-Calcula el promedio de tres notas ingresadas por el usuario utilizando la clase JOptionPane para mostrar los mensajes y obtener los valores. El programa crea un arreglo de tres elementos para almacenar las notas y luego calcula el promedio de las mismas. Finalmente, muestra las notas ingresadas y el promedio calculado en dos mensajes separados utilizando la clase JOptionPane. El programa se ejecuta en un contenedor de Java, como Eclipse, y se puede utilizar para calcular el promedio de notas de un estudiante.
+Encuentra el promedio de tres calificaciones proporcionadas por el usuario utilizando la clase JOptionPane para mostrar mensajes y recopilar los valores. El programa utiliza un arreglo de tres elementos para almacenar las calificaciones y realiza el cálculo del promedio. Luego, presenta las calificaciones ingresadas y el promedio calculado en dos mensajes distintos a través de la clase JOptionPane. Este programa se ejecuta en un entorno Java como Eclipse y es útil para calcular el promedio de calificaciones de un estudiante.
 
 ```
 package apoII;
