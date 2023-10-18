@@ -6,7 +6,6 @@ Los algoritmos son secuencias de pasos lógicos que permiten solucionar un probl
 ### Eclipse
 
 ![Logo Eclipse](https://i.ytimg.com/vi/tqzwoJ_eZAk/hqdefault.jpg)
-![image](https://github.com/JoseCabrera7/Apo2/assets/144852859/4722e04c-e243-4f87-96b7-43f13311987f)
 
 
 ```
