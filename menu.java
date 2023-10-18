@@ -43,14 +43,6 @@ public class menu {
                         JOptionPane.showMessageDialog(null, "MULTIPLICACION : "+w ,"MENU", 1);
                             break;
                 case 4:
-                    
-                    int m = 30;
-                    int k = 10;
-                    float q = division(m,k);
-                    System.out.println(q);
-                        JOptionPane.showMessageDialog(null, "DIVISION: "+q, "MENU", 1);
-                            break;
-                case 5:
                         JOptionPane.showMessageDialog(null, "SALISTE DEL MENU ", "MENU", 2);
                             break;
     
