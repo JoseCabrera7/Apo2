@@ -1,0 +1,8 @@
+Este es el principio de cualquier codigo,desde aqui podemos empezar a codificar el codigo que nosotros queramos!
+
+```
+public class HolaMundo {
+    public static void main(String[] args) {
+        System.out.println("Hola, mundo!");
+    }
+}
