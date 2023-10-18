@@ -1,0 +1,4 @@
+public static String invertirCadena(String cadena) {
+    StringBuilder reverso = new StringBuilder(cadena);
+    return reverso.reverse().toString();
+}
