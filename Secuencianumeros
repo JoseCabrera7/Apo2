@@ -1,0 +1,23 @@
+public static void generarPrimos(int cantidad) {
+    int count = 0;
+    int num = 2;
+    while (count < cantidad) {
+        if (esPrimo(num)) {
+            System.out.print(num + " ");
+            count++;
+        }
+        num++;
+    }
+}
+
+public static boolean esPrimo(int num) {
+    if (num <= 1) return false;
+    if (num <= 3) return true;
+    if (num % 2 == 0 || num % 3 == 0) return false;
+    int i = 5;
+    while (i * i <= num) {
+        if (num % i == 0 || num % (i + 2) == 0) return false;
+        i += 6;
+    }
+    return true;
+}
