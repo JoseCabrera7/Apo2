@@ -163,7 +163,7 @@ public class Division {
 
 ### Codificación.
 
-Con este codigo podemos empezar a codificar un codigo
+Este es el principio de cualquier codigo,desde aqui podemos empezar a codificar el codigo que nosotros queramos!
 
 ```
 public class HolaMundo {
