@@ -1,0 +1,3 @@
+public static void ordenarAscendente(int[] arreglo) {
+    Arrays.sort(arreglo);
+}
