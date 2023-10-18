@@ -137,7 +137,7 @@ public static void main(String[] args) {
 ```
 ## Ejecutando las pruebas
 
-Este codigo realiza una divison, hace que el usuario escriba dos numeros y el programa realice la division
+La finalidad de este codigo es realizar una divison, este hace que el usuario escriba dos numeros y asi al finalizar el codigo reaizara la division de manera correcta y precisa.
 
 ```
 import java.util.Scanner;
