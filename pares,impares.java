@@ -6,7 +6,7 @@ public class pares {
 	try (Scanner sc = new Scanner(System.in)) {
 		int n=sc.nextInt();
 		if (n==0) {
-			System.out.print("0");
+			System.out.print("1");
 		}
 		else if (n%2==0) {
 			System.out.print("par");
